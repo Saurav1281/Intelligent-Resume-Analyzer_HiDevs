@@ -1,10 +1,34 @@
 # Python
 __pycache__/
 *.py[cod]
-venv/
+*$py.class
+
+# Environments
+.env
+.venv
 env/
-.DS_Store
-node_modules/
-.idea/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Vector Stores
+data/
+chroma_db/
+faiss_index/
+
+# IDEs
 .vscode/
-*.log
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
