@@ -50,4 +50,6 @@ streamlit run app.py
 
 Just double-click the **`run.bat`** file in the project folder!
 
+## Demo Video
 
+https://drive.google.com/file/d/1fm1jDtyp46xP_K1W3Gr9TBi5i_VqJweO/view?usp=sharing
